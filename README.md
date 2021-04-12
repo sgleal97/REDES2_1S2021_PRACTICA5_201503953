@@ -1,0 +1,2 @@
+# REDES2_1S2021_PRACTICA5_201503953
+VPC, subnets, Gateway (AWS)
